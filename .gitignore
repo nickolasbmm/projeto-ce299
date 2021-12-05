@@ -1,5 +1,9 @@
 retweets.csv
 time_series/*
+time_series_backup/*
+out_backup.csv
+authors_jan_fev.csv
+retweets_jan_fev.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
